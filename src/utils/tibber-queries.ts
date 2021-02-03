@@ -1,3 +1,5 @@
+export const otherQuery = '';
+
 export const currentPriceQuery = `{
   viewer {
     homes {
